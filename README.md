@@ -227,7 +227,7 @@ $ npm run start
 
 Este projeto esta sobe a licença MIT.
 
-Feito com ❤️ por Douglas A B Novato 👋🏽 [Entre em contato!](https://www.linkedin.com/in/jos%C3%A9-washington-a53428184//)
+Feito com ❤️ por José Washington Gomes 👋🏽 [Entre em contato!](https://www.linkedin.com/in/jos%C3%A9-washington-a53428184//)
 
 [git]: https://git-scm.com/doc
 [github]: https://docs.github.com/en
